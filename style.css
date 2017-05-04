@@ -1,0 +1,20 @@
+body {
+  background-image: url('https://photos.smugmug.com/BuyPhotoArtWork/Backgrounds/i-p7C2xQB/2/cc641d98/S/ERP_Bkgnd_Neutral45Mesh-S.jpg');
+  background-size:cover;
+  font-family: arial;
+}
+img {
+  width: 300px;
+}
+#catlist {
+  list-style: none;
+  color: blue;
+  text-decoration: underline;
+  display: inline-block;
+  padding: 0px;
+  margin: 0px;
+}
+#catlist li:hover {
+  color: darkblue;
+  cursor: pointer;
+}
